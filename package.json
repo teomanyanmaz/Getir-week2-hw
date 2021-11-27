@@ -1,0 +1,20 @@
+{
+  "name": "getir-nodejs-bootcamp-week-2-assignment-teomanyanmaz",
+  "version": "1.0.0",
+  "description": "Bir sonraki derse hazırlıklı gelebilmeniz adına sizlere ARGE ödevi vermeye karar verdik. Bu repo üzerinde klasörlerinizi/dosyalarınızı oluşturup çalışabilirsiniz.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-teomanyanmaz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-teomanyanmaz/issues"
+  },
+  "homepage": "https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-week-2-assignment-teomanyanmaz#readme"
+}
