@@ -28,7 +28,6 @@ http
       default:
         res.statusCode = 404;
         res.write("404 Page Not Found");
-        break;
     }
     res.end();
   })
